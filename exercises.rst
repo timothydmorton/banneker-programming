@@ -54,7 +54,7 @@ Do each of the following exercises, submitting the solutions via pull requests t
     2
 
 
-5) Write a program called ``wordfreq.py`` that prints out all words longer than three letters (and their frequencies) in a given file, ordered by frequency.  Run this on ``ihaveadream.txt``, and check it vis-a-vis ``ihaveadream_freqs.txt``, which has my results of this exercise::
+5) Write a program called ``wordfreq.py`` that prints out all words longer than three letters (and their frequencies) in a given file, ordered by frequency.  Run this on ``ihaveadream.txt`` (in the ``data`` folder), and check it vis-a-vis ``ihaveadream_freqs.txt``, which has my results of this exercise::
 
     $ head ihaveadream_freqs.txt
     will: 27
